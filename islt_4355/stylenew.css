@@ -9,8 +9,6 @@ nav {
     background-color: rgb(0, 138, 252);
     width:100% 
 
-     
-    
 }
 
 nav p {
@@ -72,3 +70,4 @@ nav ul li a:hover {
 nav ul li ul li {
     border-radius: 10px;
 }
+
